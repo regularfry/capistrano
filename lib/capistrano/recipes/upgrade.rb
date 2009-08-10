@@ -1,3 +1,5 @@
+# -*- encoding: utf-8 -*-
+
 # Tasks to aid the migration of an established Capistrano 1.x installation to
 # Capistrano 2.x.
 

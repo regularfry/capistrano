@@ -1,3 +1,5 @@
+# -*- encoding: utf-8 -*-
+
 module Capistrano
   class Callback
     attr_reader :source, :options, :only, :except

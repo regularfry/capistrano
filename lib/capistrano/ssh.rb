@@ -1,3 +1,5 @@
+# -*- encoding: utf-8 -*-
+
 begin
   require 'rubygems'
   gem 'net-ssh', ">= 2.0.10"

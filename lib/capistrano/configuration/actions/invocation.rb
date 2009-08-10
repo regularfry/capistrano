@@ -1,3 +1,5 @@
+# -*- encoding: utf-8 -*-
+
 require 'capistrano/command'
 
 module Capistrano

@@ -1,3 +1,5 @@
+# -*- encoding: utf-8 -*-
+
 require 'capistrano/logger'
 
 require 'capistrano/configuration/callbacks'

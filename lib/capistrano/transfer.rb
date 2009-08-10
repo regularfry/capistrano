@@ -1,3 +1,5 @@
+# -*- encoding: utf-8 -*-
+
 require 'net/scp'
 require 'net/sftp'
 

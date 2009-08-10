@@ -1,3 +1,5 @@
+# -*- encoding: utf-8 -*-
+
 require 'yaml'
 require 'capistrano/recipes/deploy/scm'
 require 'capistrano/recipes/deploy/strategy'

@@ -1,3 +1,5 @@
+# -*- encoding: utf-8 -*-
+
 require 'capistrano/server_definition'
 
 module Capistrano

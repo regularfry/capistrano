@@ -1,3 +1,5 @@
+# -*- encoding: utf-8 -*-
+
 require 'capistrano'
 require 'capistrano/cli/execute'
 require 'capistrano/cli/help'
